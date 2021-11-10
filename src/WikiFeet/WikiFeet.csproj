@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <PackageId>WikiFeet</PackageId>
+        <PackageVersion>1.0.0</PackageVersion>
+        <Description>WikiFeet (The collaborative celebrity feet website) crawler</Description>
+        <PackageTags>wikifeet;feet;feetdb;celebrities;celebrity;media;entertainment;photos;pictures</PackageTags>
+        <Authors>XXIV</Authors>
+        <PackageIcon>icon.jpg</PackageIcon>
+        <PackageProjectUrl>https://github.com/sloppydaddy/wikifeet-dotnet</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/sloppydaddy/wikifeet-dotnet.git</RepositoryUrl>
+        <PackageLicenseFile>LICENSE</PackageLicenseFile>
+        <Copyright>Copyright (c) XXIV 2021</Copyright>
+    </PropertyGroup>
+    
+    <ItemGroup>
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+        <None Include="../../LICENSE" Pack="true" PackagePath="\" />
+        <None Include="../../icon.jpg" Pack="true" PackagePath="\" />
+    </ItemGroup>
+
+</Project>

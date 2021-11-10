@@ -1,0 +1,258 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/development/xxiv/libraries/github/WikiFeet/docfx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WikiFeet.AdultContentException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WikiFeet.AdultContentException.html",
+          "hash": "ArU0R/ZGDX84u9oU4oHrHT8D2MRi+0RWg3cBilehxRY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WikiFeet.FeetOfTheDay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WikiFeet.FeetOfTheDay.html",
+          "hash": "xGuODZTak4U8/vAtpMbtPDx4KTIjgx7kIbroWV6i44A="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WikiFeet.FeetOfTheWeek.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WikiFeet.FeetOfTheWeek.html",
+          "hash": "9fKw8h4pKqRZ63UzhkQoc9DmrdxfuLf49grNWOM22ig="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WikiFeet.FeetOfTheYear.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WikiFeet.FeetOfTheYear.html",
+          "hash": "etqd8ebJxwTKM0xUdCCLkMKqCltQCTceqRqaQSoCaCY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WikiFeet.RandomFeet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WikiFeet.RandomFeet.html",
+          "hash": "DHlf/6Nu8+fFHqJe7MB1MkjyP4O14cc7HLhLIXLnqec="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WikiFeet.WikiFeetCountryStats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WikiFeet.WikiFeetCountryStats.html",
+          "hash": "Mfi8CJmSuA/YfGnOsKoYMR9rN0OjxkxgF/MmRMllhDw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WikiFeet.WikiFeetSearch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WikiFeet.WikiFeetSearch.html",
+          "hash": "M3pE5TKHry31gd+4Ch1UslgUHPYlxcZ7PQ+2mx4zArk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WikiFeet.WikiFeetStats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WikiFeet.WikiFeetStats.html",
+          "hash": "IdfO6ffcRFvEeJiaKNv+uCZSF+uYWEHvDCnMORKNf+Y="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WikiFeet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WikiFeet.html",
+          "hash": "VDwVQAhlAUR/NMq3YdYyy/Cyg+YU1KlJWWbvMoGOENc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "Rmz5Q2x1x5GvlJ0xQm6qJhL00Bif2XEE2wslVX5xPoY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "uqn0jS2OTwXx4Qdo7Pi1zgUIMHqf94LTzA6lXDO1F7k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/download.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/download.html",
+          "hash": "Ijo2XsdHhN4WK+Mci3pS9OPQq/g8wpOa9gcyGSWdyZQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/example.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/example.html",
+          "hash": "cY9Rt7xqrciR7CUlh8gE5WMWCgbn+jnruHUhfIo6EDw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/license.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/license.html",
+          "hash": "kjz0I5sHiZUhCK+pETLjlSoIVAnb3nV2aqqeTG65aEU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "1hJDgHe4MrsTOslLJL113wdOMEz/uNOyakR3US9khCU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "tysAkLwYbCitGR8XWcJzQg/IGwEMRaF+flfuYUW9rgM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "4nalxAOySJKIsewCWdLpMlEYM6MRYrOH0JFCcTzAlhU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 5,
+          "skipped_file_count": 5
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 9,
+          "skipped_file_count": 9
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
